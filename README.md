@@ -18,4 +18,4 @@
 - [Rapid Obfuscator](https://github.com/Okronix/Rapid-Obfuscator) - Программный инструмент для защиты исходного кода программ.
 ### Ссылки
 - Telegram: [@devFRAME](https://t.me/devFRAME)
-- Поддержать: [cloudtips.ru](https://pay.cloudtips.ru/p/105e5b0a)
+- Поддержать: [CloudTips](https://pay.cloudtips.ru/p/105e5b0a)
