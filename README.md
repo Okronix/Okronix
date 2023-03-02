@@ -17,7 +17,7 @@
 - [Process Digger](https://github.com/Okronix/ProcessDigger) - Программа, которая позволяет управлять процессами Windows и получать информацию о системе.
 - [Rapid Obfuscator](https://github.com/Okronix/Rapid-Obfuscator) - Программный инструмент для защиты исходного кода программ.
 ## Ссылки
-- Telegram: [@devFRAME](https://t.me/devFRAME)
+- Telegram: [@devFRAME](https://t.me/+5SHcAW68EoZjN2Vi)
 ## Поддержать
 - CloudTips(Карта): https://pay.cloudtips.ru/p/105e5b0a
 - XMR: ```8AsjFH383uoCE5PNn1dhYzi3dkUfw6Cjs888Y5NTSCz918eszCApp6bZWiphfkBgswYSsayDxr9zmJpfywe9N6wS2ffSEam```
