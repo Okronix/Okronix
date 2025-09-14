@@ -15,7 +15,6 @@
 - [PC Tools Bot](https://github.com/Okronix/PCToolsBot) - Программа для управления своим компьютером через Telegram бота.
 - [Clicker Web](https://github.com/Okronix/ClickerWeb) - Простая утилита для продления срока хранения файлов на файлообменниках.
 - [Process Digger](https://github.com/Okronix/ProcessDigger) - Программа, которая позволяет управлять процессами Windows и получать информацию о системе.
-- [Rapid Obfuscator](https://github.com/Okronix/Rapid-Obfuscator) - Программный инструмент для защиты исходного кода программ.
 ## Ссылки
 - Web: [Okronix.ru](https://okronix.ru)
 - Телеграм канал: [@devFRAME](https://t.me/+BG1-5ebkjUVjYjNi)
